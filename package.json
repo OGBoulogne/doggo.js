@@ -1,0 +1,24 @@
+{
+  "name": "doggo.js",
+  "version": "1.0.0",
+  "description": "simple discord.js bot sending random dogs images on command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbraczyk/doggo.js.git"
+  },
+  "author": "Jbraczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbraczyk/doggo.js/issues"
+  },
+  "homepage": "https://github.com/jbraczyk/doggo.js#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "get-json": "^1.0.1",
+    "sodium": "^3.0.2"
+  }
+}
